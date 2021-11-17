@@ -1,0 +1,40 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Social Science",
+      "Political Science"
+    ],
+    [
+      "Social Science",
+      "Sociology"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "American Politics"
+    ],
+    [
+      "Social Science",
+      "Public Administration",
+      "Public Policy"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "04493049-18e3-f456-8683-6c433f9920a9"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Special Graduate Topic in Political Science: Public Opinion",
+  "course_description": "This course provides an introduction to the vast literature devoted to public opinion. In the next 12 weeks, we will survey the major theoretical approaches and empirical research\u00a0in the field of political behavior (though we will only tangentially discuss political\u00a0 participation and voting). For the most part we will focus on American public opinion, though some of the work we will read is comparative in nature.\n",
+  "department_numbers": [
+    "17"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "17.951",
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "title": "Course Metadata"
+}
